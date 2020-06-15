@@ -1,0 +1,13 @@
+print("hello world")
+import time
+time.sleep(3)
+name=input("what is your name: ")
+time.sleep(3)
+print("nice")
+print("ok", name, "what do you like to eat")
+food=input("...... ")
+time.sleep(2)
+print("jummy")
+print("i love that food is well")
+time.sleep(3)
+print("thank you for information")
